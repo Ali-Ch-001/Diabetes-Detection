@@ -76,4 +76,3 @@ Contributions are welcome! If you have any suggestions, bug reports, or improvem
 ## Contact
 For any questions or feedback, please contact:
 - GitHub: [Ali-Ch-001](https://github.com/Ali-Ch-001)
-```
